@@ -21,7 +21,7 @@ console.log(myNull);
 
 
 
-    const userName = prompt("Enter Your name." , "Peter");
+    const userName = prompt("Enter Your name.");
     console.log(userName);
     if (userName != true) {
         const hello = alert("Hello, " + userName);
